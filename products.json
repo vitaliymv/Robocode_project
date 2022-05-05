@@ -5,7 +5,7 @@
             "name": "Title",
             "description": "desc",
             "price": 123,
-            "photo_url": "url",
+            "photo_url": "img/forzahorizon5.jpg",
             "author_id": 2
         }
     ]
