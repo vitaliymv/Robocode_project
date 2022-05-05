@@ -1,0 +1,12 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Title",
+            "description": "desc",
+            "price": 123,
+            "photo_url": "url",
+            "author_id": 2
+        }
+    ]
+}
