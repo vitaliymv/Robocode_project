@@ -13,6 +13,13 @@
             "lastname": "Movchan",
             "url_profile": "https://github.com/vitaliymv",
             "amount_repo": 49
+        },
+        {
+            "id": 12,
+            "name": "Naz",
+            "lastname": "Nakone",
+            "url_profile": "https://github.com/nazarKNIGHT",
+            "amount_repo": 0
         }
     ]
 }
